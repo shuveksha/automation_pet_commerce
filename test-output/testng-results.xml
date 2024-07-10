@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-10T17:29:45 NPT" name="Default suite" finished-at="2024-07-10T17:30:34 NPT" duration-ms="49232">
+    <groups>
+    </groups>
+    <test started-at="2024-07-10T17:29:45 NPT" name="Default test" finished-at="2024-07-10T17:30:34 NPT" duration-ms="49232">
+      <class name="automation_project_final.admin_dashboard">
+        <test-method is-config="true" signature="setupfunction()[pri:0, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:29:22 NPT" name="setupfunction" finished-at="2024-07-10T17:29:45 NPT" duration-ms="22625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupfunction -->
+        <test-method signature="Register()[pri:0, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:29:45 NPT" name="Register" finished-at="2024-07-10T17:29:47 NPT" duration-ms="1815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method signature="login()[pri:1, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:29:47 NPT" name="login" finished-at="2024-07-10T17:29:49 NPT" duration-ms="2047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="view_items()[pri:2, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:29:49 NPT" name="view_items" finished-at="2024-07-10T17:29:55 NPT" duration-ms="5949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_items -->
+        <test-method signature="addtocart_single()[pri:3, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:29:55 NPT" name="addtocart_single" finished-at="2024-07-10T17:29:59 NPT" duration-ms="4308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart_single -->
+        <test-method signature="addtocart_multiple()[pri:4, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:29:59 NPT" name="addtocart_multiple" finished-at="2024-07-10T17:30:09 NPT" duration-ms="9617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart_multiple -->
+        <test-method signature="checkout()[pri:5, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:09 NPT" name="checkout" finished-at="2024-07-10T17:30:13 NPT" duration-ms="3918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="Myorders()[pri:6, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:13 NPT" name="Myorders" finished-at="2024-07-10T17:30:16 NPT" duration-ms="2909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Myorders -->
+        <test-method signature="search_exist()[pri:7, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:16 NPT" name="search_exist" finished-at="2024-07-10T17:30:21 NPT" duration-ms="5133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_exist -->
+        <test-method signature="search_not_exist()[pri:9, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:21 NPT" name="search_not_exist" finished-at="2024-07-10T17:30:25 NPT" duration-ms="3914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_not_exist -->
+        <test-method signature="logout()[pri:10, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:25 NPT" name="logout" finished-at="2024-07-10T17:30:26 NPT" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="login_admin()[pri:11, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:26 NPT" name="login_admin" finished-at="2024-07-10T17:30:27 NPT" duration-ms="1383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_admin -->
+        <test-method signature="processOrder()[pri:12, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:27 NPT" name="processOrder" finished-at="2024-07-10T17:30:28 NPT" duration-ms="1408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- processOrder -->
+        <test-method signature="Addcat()[pri:13, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:28 NPT" name="Addcat" finished-at="2024-07-10T17:30:30 NPT" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addcat -->
+        <test-method signature="Adddog()[pri:14, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:30 NPT" name="Adddog" finished-at="2024-07-10T17:30:31 NPT" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adddog -->
+        <test-method signature="Addfish()[pri:15, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:31 NPT" name="Addfish" finished-at="2024-07-10T17:30:33 NPT" duration-ms="1566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addfish -->
+        <test-method signature="viewCompletedorders()[pri:16, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:33 NPT" name="viewCompletedorders" finished-at="2024-07-10T17:30:34 NPT" duration-ms="1350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewCompletedorders -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automation_project_final.admin_dashboard@4c1909a3]" started-at="2024-07-10T17:30:34 NPT" name="close" finished-at="2024-07-10T17:30:37 NPT" duration-ms="2695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- automation_project_final.admin_dashboard -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
